@@ -23,3 +23,11 @@ performance given the task of emotion recognition. We utilize
 state-of-the-art machine learning models to detect emotions based on
 textual comments and perform extensive experiments to compare the
 effects of the various augmentation approaches.
+
+#### Datasets:
+
+1. COVID-19 Survey: collected via survey in UK in lockdown April 2020. 2,500 participants
+wrote text responses and rated their emotions e.g. worry, anxiety, relaxation, etc.
+2. WASSA: part of the WASSA 2021 Shared Task. Contains essays written after reading
+news articles related to harm to an individual, nature, etc.
+
