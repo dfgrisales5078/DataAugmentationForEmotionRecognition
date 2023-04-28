@@ -24,6 +24,13 @@ state-of-the-art machine learning models to detect emotions based on
 textual comments and perform extensive experiments to compare the
 effects of the various augmentation approaches.
 
+### Results:
+![alt text](Bargraph-CovidResults.png)
+
+![alt text](Bargraph-WASSAResults.png)
+
+![alt text](Bargraph-EmoeventResults.png)
+
 #### Datasets:
 
 1. COVID-19 Survey: collected via survey in UK in lockdown April 2020. 2,500 participants
