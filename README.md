@@ -1,6 +1,6 @@
 # AI and Deep Learning: Exploring the Impact of Data Augmentation on Text-based Emotion Recognition
 
-## Research conducted with Dr. Anna Koufakou, Ragy Costa de jesus, and Oscar Fox
+## Research conducted with Dr. Anna Koufakou, Diego Grisales Ragy Costa de jesus, and Oscar Fox. 
 
 ###
 The task of detecting emotions from text has become increasingly popular
