@@ -2,6 +2,8 @@
 
 ## Research conducted with Dr. Anna Koufakou, Diego Grisales Ragy Costa de jesus, and Oscar Fox. 
 
+"Data Augmentation for Emotion Detection in Small Imbalanced Text Data", to be presented at the 22nd IEEE International Conference on Machine Learning and Applications, 2023. Pre-print: https://arxiv.org/abs/2310.17015
+
 ###
 The task of detecting emotions from text has become increasingly popular
 in recent years, mostly due to significant recent advances in Natural
